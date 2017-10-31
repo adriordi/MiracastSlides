@@ -15,5 +15,5 @@
 
 # Contenido:<a id="sec-2" name="sec-2"></a>
 
-Exposición para la asignarura FR en el grado de informática sobre el protocolo miracast y su uso con chromecast, asi 
-como el protocolo google cast, una modificacion del primero por parte de google.
+Exposición para la asignarura FR en el grado en Ingeniería informática sobre el protocolo miracast y su uso con chromecast, así
+como el protocolo google cast, una modificación del primero por parte de google.
